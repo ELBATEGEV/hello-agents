@@ -1,4 +1,0 @@
-hello-agents>=1.0.0
-pandas
-matplotlib
-python-dotenv
